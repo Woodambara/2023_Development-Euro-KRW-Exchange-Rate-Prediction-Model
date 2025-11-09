@@ -27,6 +27,6 @@ Build a forecasting model for **EUR/KRW** that
 
 ---
 
-## Model
-
+## Methodologies
+PCA and OLS
 
